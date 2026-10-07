@@ -1,5 +1,8 @@
 # TUBES-IMPAL
 
+# Link Progress
+[![Progress bisa diliat disini](https://shields.io)](https://docs.google.com/spreadsheets/d/1opxStc1adxnzAn5b3ZuOc_FDZ2FAvsJTYhdo0IPd6xE/edit?usp=sharing)
+
 # Deskripsi Web App (Equipment Rental)
 RenTech adalah aplikasi berbasis web yang digunakan untuk mengelola proses penyewaan berbagai peralatan. Aplikasi ini ditujukan untuk membantu pengguna umum, baik perorangan maupun organisasi, dalam mencari, memesan, dan menyewa peralatan yang dibutuhkan untuk berbagai keperluan, seperti kamera, tripod, proyektor, mikrofon, speaker, dan peralatan lainnya.
 
