@@ -1,8 +1,5 @@
 # TUBES-IMPAL
 
-# Link Progress
-[![Progress bisa diliat disini](https://shields.io)](https://docs.google.com/spreadsheets/d/1opxStc1adxnzAn5b3ZuOc_FDZ2FAvsJTYhdo0IPd6xE/edit?usp=sharing)
-
 # Deskripsi Web App (Equipment Rental)
 RenTech adalah aplikasi berbasis web yang digunakan untuk mengelola proses penyewaan berbagai peralatan. Aplikasi ini ditujukan untuk membantu pengguna umum, baik perorangan maupun organisasi, dalam mencari, memesan, dan menyewa peralatan yang dibutuhkan untuk berbagai keperluan, seperti kamera, tripod, proyektor, mikrofon, speaker, dan peralatan lainnya.
 
@@ -77,3 +74,6 @@ mengatur navigasi antar halaman.
 • Integrasi: Laravel Backend
 
 • Justifikasi: Google Gemini API diterapkan pada fitur AI Equipment Recommendation sebagai fitur pendukung untuk membantu pengguna menemukan peralatan yang sesuai kebutuhan. Pengguna cukup mendeskripsikan kebutuhannya dalam bentuk kalimat bebas, kemudian AI mengolah deskripsi tersebut untuk memberikan beberapa opsi rekomendasi peralatan. Sumber data utama seperti nama peralatan, harga, jumlah stok, dan status ketersediaan tetap diambil dari database aplikasi, sehingga peran AI hanya sebatas pemberi rekomendasi, bukan sumber data utama dalam proses penyewaan.
+
+# Controlling Works
+[![click link ini](https://shields.io)](https://docs.google.com/spreadsheets/d/1opxStc1adxnzAn5b3ZuOc_FDZ2FAvsJTYhdo0IPd6xE/edit?usp=sharing)
