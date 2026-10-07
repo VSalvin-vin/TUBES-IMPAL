@@ -22,33 +22,6 @@ Penyewaan peralatan (kamera, tripod, proyektor, mikrofon, speaker, dan lainnya) 
 
 **Di luar lingkup:** aplikasi mobile native, integrasi payment gateway pihak ketiga, pengiriman barang, dan manajemen aset di luar peralatan sewa.
 
-### 1.3 Definisi, Akronim, dan Singkatan
-
-| Istilah | Keterangan |
-| --- | --- |
-| SKPL | Spesifikasi Kebutuhan Perangkat Lunak |
-| DPPL | Deskripsi Perancangan Perangkat Lunak |
-| REST API | Antarmuka pertukaran data berbasis HTTP antara frontend dan backend |
-| CRUD | Create, Read, Update, Delete |
-| Role | Peran pengguna: Penyewa, Petugas, Admin |
-| Invoice | Bukti transaksi penyewaan berformat PDF |
-| Denda | Biaya tambahan akibat kerusakan atau keterlambatan |
-| LLM | Large Language Model (Google Gemini API) |
-| UI/UX | User Interface / User Experience |
-
-### 1.4 Referensi
-
-- Dokumen Rencana Konstruksi Perangkat Lunak: RenTech Web App (TUGAS1_IMPAL-03-03).
-- IEEE Std 830-1998, *Recommended Practice for Software Requirements Specifications*.
-- Dokumentasi Laravel, React.js, Tailwind CSS, MySQL, dan Google Gemini API.
-
-### 1.5 Deskripsi Umum Dokumen
-
-- **Bab 1** berisi pendahuluan.
-- **Bab 2** menjelaskan gambaran umum produk, pengguna, batasan, dan asumsi.
-- **Bab 3** memuat kebutuhan spesifik (antarmuka, fungsional, nonfungsional).
-- **Bab 4** memuat matriks keterlacakan kebutuhan.
-
 ---
 
 ## 2. Deskripsi Umum
