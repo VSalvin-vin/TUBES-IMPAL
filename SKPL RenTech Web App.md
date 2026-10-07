@@ -2,6 +2,37 @@
 
 **RenTech Web App – Equipment Rental**
 
+## Daftar Isi
+
+1. [Pendahuluan](#1-pendahuluan)
+   - [1.1 Tujuan Penulisan Dokumen](#11-tujuan-penulisan-dokumen)
+   - [1.2 Lingkup Masalah](#12-lingkup-masalah)
+2. [Deskripsi Umum](#2-deskripsi-umum)
+   - [2.1 Perspektif Produk](#21-perspektif-produk)
+   - [2.2 Fungsi Produk](#22-fungsi-produk)
+   - [2.3 Karakteristik Pengguna](#23-karakteristik-pengguna)
+   - [2.4 Lingkungan Operasi](#24-lingkungan-operasi)
+   - [2.5 Batasan Perancangan dan Implementasi](#25-batasan-perancangan-dan-implementasi)
+   - [2.6 Asumsi dan Ketergantungan](#26-asumsi-dan-ketergantungan)
+3. [Kebutuhan Spesifik](#3-kebutuhan-spesifik)
+   - [3.1 Kebutuhan Antarmuka Eksternal](#31-kebutuhan-antarmuka-eksternal)
+   - [3.2 Kebutuhan Fungsional](#32-kebutuhan-fungsional)
+     - [3.2.1 Autentikasi dan Manajemen Pengguna](#321-autentikasi-dan-manajemen-pengguna)
+     - [3.2.2 Katalog dan Manajemen Peralatan](#322-katalog-dan-manajemen-peralatan)
+     - [3.2.3 Keranjang dan Penyewaan](#323-keranjang-dan-penyewaan)
+     - [3.2.4 Checkout dan Pembayaran](#324-checkout-dan-pembayaran)
+     - [3.2.5 Invoice dan Bukti Transaksi](#325-invoice-dan-bukti-transaksi)
+     - [3.2.6 Pengambilan dan Pengembalian](#326-pengambilan-dan-pengembalian)
+     - [3.2.7 Rekomendasi Peralatan Berbasis AI](#327-rekomendasi-peralatan-berbasis-ai)
+     - [3.2.8 Review dan Penilaian](#328-review-dan-penilaian)
+     - [3.2.9 Dashboard dan Laporan](#329-dashboard-dan-laporan)
+   - [3.3 Daftar Use Case](#33-daftar-use-case)
+   - [3.4 Kebutuhan Nonfungsional](#34-kebutuhan-nonfungsional)
+   - [3.5 Kebutuhan Data](#35-kebutuhan-data)
+4. [Matriks Keterlacakan](#4-matriks-keterlacakan)
+
+---
+
 ## 1. Pendahuluan
 
 ### 1.1 Tujuan Penulisan Dokumen
