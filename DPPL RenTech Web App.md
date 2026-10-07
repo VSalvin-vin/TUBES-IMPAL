@@ -2,6 +2,49 @@
 
 **RenTech Web App – Equipment Rental**
 
+## Daftar Isi
+
+1. [Pendahuluan](#1-pendahuluan)
+   - [1.1 Tujuan Penulisan Dokumen](#11-tujuan-penulisan-dokumen)
+   - [1.2 Lingkup Masalah](#12-lingkup-masalah)
+2. [Perancangan Arsitektur](#2-perancangan-arsitektur)
+   - [2.1 Gambaran Arsitektur](#21-gambaran-arsitektur)
+   - [2.2 Struktur Backend (MVC Laravel)](#22-struktur-backend-mvc-laravel)
+   - [2.3 Struktur Frontend](#23-struktur-frontend)
+   - [2.4 Keputusan Rancangan](#24-keputusan-rancangan)
+3. [Perancangan Data](#3-perancangan-data)
+   - [3.1 Relasi Antar Entitas](#31-relasi-antar-entitas)
+   - [3.2 Rancangan Tabel](#32-rancangan-tabel)
+     - [users](#users)
+     - [categories](#categories)
+     - [equipments](#equipments)
+     - [carts dan cart_items](#carts-dan-cart_items)
+     - [rentals](#rentals)
+     - [rental_items](#rental_items)
+     - [payments](#payments)
+     - [returns](#returns)
+     - [damages](#damages)
+     - [reviews](#reviews)
+4. [Perancangan Proses dan Logika Bisnis](#4-perancangan-proses-dan-logika-bisnis)
+   - [4.1 Perhitungan Biaya Sewa](#41-perhitungan-biaya-sewa)
+   - [4.2 Pemeriksaan Ketersediaan Stok](#42-pemeriksaan-ketersediaan-stok)
+   - [4.3 Alur Checkout dan Pembayaran](#43-alur-checkout-dan-pembayaran)
+   - [4.4 Pembuatan Invoice](#44-pembuatan-invoice)
+   - [4.5 Pengambilan dan Pengembalian](#45-pengambilan-dan-pengembalian)
+   - [4.6 Rekomendasi AI](#46-rekomendasi-ai)
+   - [4.7 Review](#47-review)
+   - [4.8 Dashboard](#48-dashboard)
+5. [Perancangan REST API](#5-perancangan-rest-api)
+6. [Perancangan Antarmuka](#6-perancangan-antarmuka)
+   - [6.1 Peta Halaman Berdasarkan Role](#61-peta-halaman-berdasarkan-role)
+   - [6.2 Rancangan Halaman Utama](#62-rancangan-halaman-utama)
+   - [6.3 Prinsip Antarmuka](#63-prinsip-antarmuka)
+7. [Perancangan Keamanan dan Penanganan Kesalahan](#7-perancangan-keamanan-dan-penanganan-kesalahan)
+8. [Rencana Pengujian Singkat](#8-rencana-pengujian-singkat)
+9. [Pemetaan Kebutuhan ke Rancangan](#9-pemetaan-kebutuhan-ke-rancangan)
+
+---
+
 ## 1. Pendahuluan
 
 ### 1.1 Tujuan Penulisan Dokumen
